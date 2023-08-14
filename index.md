@@ -16,7 +16,7 @@ For this project, I did an Analysis of Doordash's marketing to find the various 
 ---
 #### [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 [<img src="images/Massachusetts_cover_image.png?raw=true"/>](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
-This is a project on the Massachusetts School data. The aim of this project is to derive valuable insights using the dataset to improve various aspects of the schooling and Education system. The main focus were: 
+This is a project on the Massachusetts School data. The aim of this project is to derive valuable insights using the dataset to improve various aspects of the schooling and Education system. The main focus was: 
 What schools are struggling the most?
 How does class size affect college admission?
 What are the top math schools in the state?
@@ -30,6 +30,12 @@ The goal of this project is to analyze the Coffee Chain Sales dataset and derive
 ##### Tool used: Tableau
 ---
 
+#### [Employee Attrition in Healthcare](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
+[<img src="images/Healthcare Attrition cover.jpg?raw=true"/>](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
+This project aims at analyzing different factors involved in Attrition in Healthcare. How does the Attrition rate vary across departments and what is the Job satisfaction rating in various departments?
+##### Tool used: Tableau
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
