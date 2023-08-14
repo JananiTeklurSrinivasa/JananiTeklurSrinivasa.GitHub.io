@@ -38,7 +38,7 @@ Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffe
 ---
 
 #### [Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
-[<img src="images/Covid19_thumbnail?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
+[<img src="images/Covid19_thumbnail.png?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
 Exploratory data analysis on covid deaths and vaccination data using SQL and Tableau. The project is hosted on GitHub and Tableau. Check out the README of Github to find the link for the tableau visualizations.
 ##### Tool used: SQL and Tableau
 
