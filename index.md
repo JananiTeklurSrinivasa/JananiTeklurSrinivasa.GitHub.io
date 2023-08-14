@@ -11,14 +11,12 @@
 #### [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
 [<img src="images/Doordash Cover Image.png?raw=true"/>](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
 For this project, I did an Analysis on Doordash's marketing to come up with business ideas to boost their sales.
-<br>
 ##### Tool used: Excel(Vlookup, Sorting&Filtering, Pivot tables, and Charts)
 
 ---
 #### [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 [<img src="images/Massachusetts_cover_image.png?raw=true"/>](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 This is a project on the Massachusetts School data. The aim of this project is to derive valuable insights into the dataset to improve various aspects of the schooling and Education system. 
-<br>
 ##### Tool used: Tableau
 
 
