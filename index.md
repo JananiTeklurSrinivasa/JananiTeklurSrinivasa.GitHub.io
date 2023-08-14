@@ -1,22 +1,25 @@
 # Welcome to My Portfolio
 
 ---
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
+[<img src="images/Doordash Cover Image.png?raw=true"/>](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
+For this project, I did an Analysis on Doordash's marketing to come up with business ideas to boost their sales.
+<br><br>
+Tool used: Excel(Vlookup, Sorting&Filtering, Pivot tables, and Charts)
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
+[<img src="images/Massachusetts_cover_image.png?raw=true"/>](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
+This is a project on the Massachusetts School data. The aim of this project is to derive valuable insights into the dataset to improve various aspects of the schooling and Education system. 
+<br><br>
+Tool used: Tableau
 
 
 ---
