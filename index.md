@@ -8,14 +8,6 @@
 
 ### Learn About My Projects
 
-
-
----
-#### [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
-[<img src="images/Doordash Cover Image.png?raw=true"/>](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
-For this project, I did an Analysis of Doordash's marketing to find the various factors affecting sales and come up with business ideas to boost their sales.
-##### Tool used: Excel(Vlookup, Sorting&Filtering, Pivot tables, and Charts)
-
 ---
 
 #### [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
@@ -26,8 +18,25 @@ How does class size affect college admission?
 What are the top math schools in the state?
 ##### Tool used: Tableau
 
+---
+
+#### [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
+[<img src="images/Doordash Cover Image.png?raw=true"/>](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
+For this project, I did an Analysis of Doordash's marketing to find the various factors affecting sales and come up with business ideas to boost their sales.
+##### Tool used: Excel(Vlookup, Sorting&Filtering, Pivot tables, and Charts)
+
+
 
 ---
+
+
+#### [Coffee Shop Sales Analysis](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
+[<img src="images/Coffee shop sales_cover_updated.jpg?raw=true"/>](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
+Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffee types, Revenue across states, Profit in every state and region, and deviation from Actual and Calculated Sales and Profit.
+##### Tool used: Tableau
+
+---
+
 
 #### [Employee Attrition in Healthcare](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
 [<img src="images/Healthcare Attrition cover.jpg?raw=true"/>](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
