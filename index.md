@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ---
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Janani Teklur Srinivasa.mp4?raw=true"/>
 
 ### Learn About My Projects
 
