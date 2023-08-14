@@ -38,7 +38,7 @@ Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffe
 ---
 
 #### [Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
-[<img src="images/covid19.jpg?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
+[<img src="images/Covid19_thumbnail?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
 Exploratory data analysis on covid deaths and vaccination data using SQL and Tableau. The project is hosted on GitHub and Tableau.
 ##### Tool used: SQL and Tableau
 
@@ -76,9 +76,10 @@ Created visualizations in Tableau.
 
 ---
 ### My Projects
-
-- [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
 - [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
+- [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
+- [Coffee Shop Sales Analysis](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
+- [Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
 - [Employee Attrition in Healthcare](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
 - [Spotify Songs Analysis](https://medium.com/@jananibalaji20/spotify-data-analysis-eda-b585970d8bd2)
 - [Cyclists Bike Share Analysis](https://medium.com/@jananibalaji20/google-capstone-project-cyclistic-bike-share-analysis-d18dacbcde94)
