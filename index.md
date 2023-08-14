@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ---
-[<img src="images/Janani Teklur Srinivasa.gif"/>](www.linkedin.com/in/janani-teklur-srinivasa)
+
 
 --
 
