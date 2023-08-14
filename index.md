@@ -1,7 +1,7 @@
 # Welcome to My Portfolio
 
 ---
-<img src="images/Janani Teklur Srinivasa.mp4?raw=true"/>
+[<img src="images/Janani Teklur Srinivasa.mp4"/>]
 
 ### Learn About My Projects
 
@@ -25,7 +25,7 @@ What are the top math schools in the state?
 
 ---
 #### [Coffee Chain Sales Analysis](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
-[<img src="images/Coffee shop sales_cover_updated.png?raw=true"/>](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
+[<img src="images/Coffee shop sales_cover_updated.png"/>](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
 The goal of this project is to analyze the Coffee Chain Sales dataset and derive valuable insights about the sales and profit of different types of coffee and find what types of coffee are more popular than others.
 ##### Tool used: Tableau
 ---
