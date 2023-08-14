@@ -1,7 +1,12 @@
 # Welcome to My Portfolio
 
 ---
-[<img src="images/Janani Teklur Srinivasa.mp4"/>]
+[<img src="images/Janani Teklur Srinivasa.gif"/>](www.linkedin.com/in/janani-teklur-srinivasa)
+
+--
+
+
+
 
 ### Learn About My Projects
 
