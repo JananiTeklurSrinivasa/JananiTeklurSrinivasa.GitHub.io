@@ -31,12 +31,13 @@ For this project, I did an Analysis of Doordash's marketing to find the various 
 
 
 #### [Coffee Shop Sales Analysis](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
-[<img src="images/Coffee shop sales_cover_updated.jpg?raw=true"/>](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
+[<img src="images/Coffee Shop.png?raw=true"/>](https://medium.com/@jananibalaji20/coffee-sales-analysis-ae9da514fb30)
 Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffee types, Revenue across states, Profit in every state and region, and deviation from Actual and Calculated Sales and Profit.
 ##### Tool used: Tableau
 
 ---
 
+---
 
 #### [Employee Attrition in Healthcare](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
 [<img src="images/Healthcare Attrition cover.jpg?raw=true"/>](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
