@@ -37,6 +37,11 @@ Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffe
 
 ---
 
+#### [Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
+[<img src="images/covid19.jpg?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
+Exploratory data analysis on covid deaths and vaccination data using SQL and Tableau. The project is hosted on GitHub and Tableau.
+##### Tool used: SQL and Tableau
+
 ---
 
 #### [Employee Attrition in Healthcare](https://medium.com/@jananibalaji20/employee-attrition-in-healthcare-eda-5c436b8fe966)
