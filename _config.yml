@@ -2,8 +2,10 @@ title: Janani Teklur Srinivasa # your name (or website title) here
 logo: "/images/Untitled design.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Data Analyst 
- <br><br>
- <a href="https://www.linkedin.com/in/janani-teklur-srinivasa/">View My LinkedIn Profile</a> <br>
+ <br>
+ <a href="https://www.linkedin.com/in/janani-teklur-srinivasa/">View My LinkedIn Profile</a>
+ <br>
+ <a href="https://medium.com/@jananibalaji20">View My Medium Profile</a>
 
   
 theme: jekyll-theme-minimal
