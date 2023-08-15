@@ -84,13 +84,12 @@ Created visualizations in Tableau.
 - [Spotify Songs Analysis](https://medium.com/@jananibalaji20/spotify-data-analysis-eda-b585970d8bd2)
 - [Cyclists Bike Share Analysis](https://medium.com/@jananibalaji20/google-capstone-project-cyclistic-bike-share-analysis-d18dacbcde94)
 
----
 
 ### [<img src="images/resume icon.jpg?raw=true"/>](/files/Janani Srinivasa_Resume.pdf) [Resume](/files/Janani Srinivasa_Resume.pdf)     
 ### [<img src="images/tableau icon.png?raw=true"/>](https://public.tableau.com/app/profile/janani.t.s) [Tableau](https://public.tableau.com/app/profile/janani.t.s) 
 ### [<img src="images/medium icon.png?raw=true"/>](https://medium.com/@jananibalaji20) [Medium](https://medium.com/@jananibalaji20)     
 ### [<img src="images/Linkedin icon.png?raw=true"/>](https://www.linkedin.com/in/janani-teklur-srinivasa/) [LinkedIn](https://www.linkedin.com/in/janani-teklur-srinivasa/)
 
-
+---
 
 
