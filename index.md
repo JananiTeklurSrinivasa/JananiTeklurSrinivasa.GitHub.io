@@ -100,6 +100,7 @@ Created visualizations in Tableau.
 ### [<img src="images/Tableau_icon_image.png?raw=true"/>](https://public.tableau.com/app/profile/janani.t.s) [Tableau](https://public.tableau.com/app/profile/janani.t.s) 
 ### [<img src="images/Medium_Icon_image.png?raw=true"/>](https://medium.com/@jananibalaji20) [Medium](https://medium.com/@jananibalaji20)     
 ### [<img src="images/Linkedin_icon_img.png?raw=true"/>](https://www.linkedin.com/in/janani-teklur-srinivasa/) [LinkedIn](https://www.linkedin.com/in/janani-teklur-srinivasa/)
+### [<img src="images/About_icon_image.png?raw=true"/>](/About.md) [About Me](/About.md)
 
 ---
 
