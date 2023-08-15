@@ -10,6 +10,17 @@
 
 ---
 
+#### [SQL Analysis on World Bank data](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
+[<img src="images/SQL Analysis on World Bank data.png?raw=true"/>](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
+This is a project on the World Bank data and I have used SQL for the Analysis. For this project, I have been hired as a data analyst to look over all our bank loans & give insights and answer the following questions like 
+What is the total number of loans taken from IDA?
+How much was totally repaid?
+Which are the countries with the highest number of loans?
+Which country and What project has the highest principal amount?
+##### Tool used: SQL
+
+---
+
 #### [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 [<img src="images/Massachusetts_cover_image.png?raw=true"/>](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 This is a project on the Massachusetts School data. The aim of this project is to derive valuable insights using the dataset to improve various aspects of the schooling and Education system. The main focus was: 
@@ -37,7 +48,7 @@ Exploring the Sales data of a Coffee Shop and deriving insights on Popular Coffe
 
 ---
 
-#### [Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
+#### [SQL-Covid 19 Exploratory Analysis](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
 [<img src="images/Covid19_thumbnail.png?raw=true"/>](https://github.com/JananiTeklurSrinivasa/SQL-PortfolioProjects/blob/main/SQLCovidprojectqueries.sql)
 Exploratory data analysis on covid deaths and vaccination data using SQL and Tableau. The project is hosted on GitHub and Tableau. Check out the README of Github to find the link for the tableau visualizations.
 ##### Tool used: SQL and Tableau
