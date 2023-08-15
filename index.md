@@ -13,10 +13,10 @@
 #### [SQL Analysis on World Bank data](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
 [<img src="images/SQL Analysis on World Bank data.png?raw=true"/>](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
 This is a project on the World Bank data and I have used SQL for the Analysis. For this project, I have been hired as a data analyst to look over all our bank loans & give insights and answer the following questions like 
-What is the total number of loans taken from IDA?
-How much was totally repaid?
-Which are the countries with the highest number of loans?
-Which country and What project has the highest principal amount?
+1. What is the total number of loans taken from IDA?
+2. How much was totally repaid?
+3. Which are the countries with the highest number of loans?
+4. Which country and What project has the highest principal amount?
 ##### Tool used: SQL
 
 ---
