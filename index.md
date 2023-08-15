@@ -86,6 +86,11 @@ Created visualizations in Tableau.
 
 ---
 
+### [<img src="images/resume icon.jpg?raw=true"/>](/files/Janani Srinivasa_Resume.pdf) [Resume](/files/Janani Srinivasa_Resume.pdf)     
+### [<img src="images/tableau icon.png?raw=true"/>](https://public.tableau.com/app/profile/janani.t.s) [Tableau](https://public.tableau.com/app/profile/janani.t.s) 
+### [<img src="images/medium icon.png?raw=true"/>](https://medium.com/@jananibalaji20) [Medium](https://medium.com/@jananibalaji20)     
+### [<img src="images/Linkedin icon.png?raw=true"/>](https://www.linkedin.com/in/janani-teklur-srinivasa/) [LinkedIn](https://www.linkedin.com/in/janani-teklur-srinivasa/)
+
 
 
 
