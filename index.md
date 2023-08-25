@@ -96,6 +96,7 @@ Created visualizations in Tableau.
 
 ---
 ### My Projects
+- [Healthcare Data Analysis using SQL](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
 - [SQL Analysis on World Bank data](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
 - [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
 - [Doordash Marketing Analysis with Excel](https://www.linkedin.com/pulse/dashing-data-unveiling-doordashs-delicious-secrets-teklur-srinivasa/)
