@@ -10,8 +10,8 @@
 ---
 
 #### [Healthcare Data Analysis using SQL](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
-[<img src="images/USING SQL.mp4?raw=true"/>](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
-This is a project on the Healthcare data and I have used SQL for the Analysis. For this project, I have been hired as a data analyst to analyse the hospital data & give insights and answer the following questions like 
+[<img src="images/USING SQL.png?raw=true"/>](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
+This is a project on the Healthcare data and I have used SQL for the Analysis. For this project, I have been hired as a data analyst to analyze the hospital data & give insights and answer the following questions like 
 1. Are patients from different races treated differently?
 2. Is there a relationship between the number of procedures and time spent?
 3. What factors influence a higher rate of readmission?
