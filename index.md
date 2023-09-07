@@ -9,6 +9,24 @@
 ### Learn About My Projects
 ---
 
+#### [My Youtube Channel Analytics using Tableau](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
+[<img src="images/My Beauty Channel Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
+This project was done using Tableau and I analyzed the data from the YouTube channel that I run. It was really interesting to learn about my own channel through the help of data and Analytics. I gathered some useful insights on:
+1. Video Categories gaining the highest Views.
+2. Relationship between CTR% and Views.
+3. Distribution of Views across Countries and Cities.
+##### Tools used: Excel, Tableau
+---
+
+#### [NBA 2021-2022 Stats Analysis using Tableau](https://www.linkedin.com/pulse/slam-dunking-data-analyzing-nba-performance-trends-teklur-srinivasa/)
+[<img src="images/NBA Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/slam-dunking-data-analyzing-nba-performance-trends-teklur-srinivasa/)
+This project was done using Tableau and I have analyzed the NBA 2021-2022 Stats data and derived exciting insights and recommendations for:
+1. The best position for every team to shoot three-pointers.
+2. Insights about Points, Assists, and Rebounds.
+3. Highest scoring player etc.
+##### Tools used: Excel, Tableau, VLOOKUP
+---
+
 #### [Healthcare Data Analysis using SQL](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
 [<img src="images/USING SQL.png?raw=true"/>](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
 This is a project on the Healthcare data and I have used SQL for the Analysis. For this project, I have been hired as a data analyst to analyze the hospital data & give insights and answer the following questions like 
