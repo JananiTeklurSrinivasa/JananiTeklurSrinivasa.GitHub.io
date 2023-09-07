@@ -114,6 +114,8 @@ Created visualizations in Tableau.
 
 ---
 ### My Projects
+- [My Youtube Channel Analytics using Tableau](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
+- [NBA 2021-2022 Stats Analysis using Tableau](https://www.linkedin.com/pulse/slam-dunking-data-analyzing-nba-performance-trends-teklur-srinivasa/)
 - [Healthcare Data Analysis using SQL](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
 - [SQL Analysis on World Bank data](https://www.linkedin.com/pulse/empowering-insights-sql-analysis-world-banks-global-teklur-srinivasa)
 - [Analyzing Education Trends using Massachusetts School data](https://www.linkedin.com/pulse/from-data-points-discoveries-massachusetts-schooling-janani/)
