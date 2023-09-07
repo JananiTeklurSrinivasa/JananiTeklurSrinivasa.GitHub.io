@@ -10,7 +10,7 @@
 ---
 
 #### [My Youtube Channel Analytics using Tableau](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
-[<img src="images/edited.mp4?raw=true"/>](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
+[<img src="images/My Beauty Channel Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
 This project was done using Tableau and I analyzed the data from the YouTube channel that I run. It was really interesting to learn about my own channel through the help of data and Analytics. I gathered some useful insights on:
 1. Video Categories gaining the highest Views.
 2. Relationship between CTR% and Views.
