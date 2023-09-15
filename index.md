@@ -9,6 +9,13 @@
 ### Learn About My Projects
 ---
 
+#### [EDA of Froth Characteristics in Iron Flotation using Python](https://www.linkedin.com/pulse/exploratory-analysis-froth-characteristics-iron-teklur-srinivasa/)
+[<img src="images/Iron.png?raw=true"/>](https://www.linkedin.com/pulse/exploratory-analysis-froth-characteristics-iron-teklur-srinivasa/)
+Extensive EDA - Exploratory Data Analysis on the iron flotation dataset to uncover interesting insights and relationships between different data points.
+
+##### Tools used: Python, Excel
+---
+
 #### [My Youtube Channel Analytics using Tableau](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
 [<img src="images/My Beauty Channel Analytics.png?raw=true"/>](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
 This project was done using Tableau and I analyzed the data from the YouTube channel that I run. It was really interesting to learn about my own channel through the help of data and Analytics. I gathered some useful insights on:
@@ -114,6 +121,7 @@ Created visualizations in Tableau.
 
 ---
 ### My Projects
+- [EDA of Froth Characteristics in Iron Flotation using Python](https://www.linkedin.com/pulse/exploratory-analysis-froth-characteristics-iron-teklur-srinivasa/)
 - [My Youtube Channel Analytics using Tableau](https://www.linkedin.com/pulse/from-views-vanity-metrics-understanding-my-beauty-teklur-srinivasa/)
 - [NBA 2021-2022 Stats Analysis using Tableau](https://www.linkedin.com/pulse/slam-dunking-data-analyzing-nba-performance-trends-teklur-srinivasa/)
 - [Healthcare Data Analysis using SQL](https://www.linkedin.com/pulse/data-driven-quality-improvement-healthcare-sql-teklur-srinivasa/)
