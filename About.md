@@ -1,6 +1,6 @@
 👋Hi, I am Janani!
 
-📈As a dedicated professional in the field of technology, I am embarking on an exciting career transition from a mainframe developer to a data analyst/Business analyst. 
+📈As a dedicated professional in the field of technology, I am embarking on an exciting career transition from a mainframe developer to a data analyst/Business analyst. As part of the transition, I am enrolled in Masters in Analytics program at Georgia Tech!
 
 📊With a strong foundation in mainframe development with SQL experience of 5 years and a passion for leveraging data to drive insights and decision-making, I bring a unique perspective to the world of data analysis.
 
