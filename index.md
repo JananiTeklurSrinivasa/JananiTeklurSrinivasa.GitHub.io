@@ -135,7 +135,7 @@ Created visualizations in Tableau.
 - [Cyclists Bike Share Analysis](https://medium.com/@jananibalaji20/google-capstone-project-cyclistic-bike-share-analysis-d18dacbcde94)
 
 
-### [<img src="images/Resume_icon_img.png?raw=true"/>](/files/Janani Srinivasa_Resume_V2.pdf) [Resume](/files/JananiSrinivasa_DataAnalyst_Resume.pdf)     
+### [<img src="images/Resume_icon_img.png?raw=true"/>](/files/Janani Srinivasa_Resume.docx) [Resume](/files/Janani Srinivasa_Resume.docx)     
 ### [<img src="images/Tableau_icon_image.png?raw=true"/>](https://public.tableau.com/app/profile/janani.t.s) [Tableau](https://public.tableau.com/app/profile/janani.t.s) 
 ### [<img src="images/Medium_Icon_image.png?raw=true"/>](https://medium.com/@jananibalaji20) [Medium](https://medium.com/@jananibalaji20)     
 ### [<img src="images/Linkedin_icon_img.png?raw=true"/>](https://www.linkedin.com/in/janani-teklur-srinivasa/) [LinkedIn](https://www.linkedin.com/in/janani-teklur-srinivasa/)
